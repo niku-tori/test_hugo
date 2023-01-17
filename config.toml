@@ -1,4 +1,4 @@
-baseURL = 'https://ie.u-ryukyu.ac.jp/e205708_newbee/'
+baseURL = 'http://localhost:8080/mysite/'
 languageCode = 'en-us'
 canonifyurls = true
 # website title
